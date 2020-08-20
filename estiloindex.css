@@ -687,7 +687,7 @@ button{
         width: 350px;
         height: 200px;
         margin: 0 auto;
-        padding: 10px 10px;
+        padding: 10px 20px;
     }
     .contenedor-paginac{
         display: grid;
